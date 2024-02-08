@@ -1,6 +1,6 @@
 import pandas as pd
 from difflib import SequenceMatcher
-from fuzzywuzzy import fuzz
+# from fuzzywuzzy import fuzz
 
 
 # Function to calculate similarity between two strings
