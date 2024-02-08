@@ -218,5 +218,5 @@ def predict_endpoint():
 
     return jsonify({'error': 'No text or image data provided'}), 400
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
